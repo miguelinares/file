@@ -1,113 +1,186 @@
-#EXTINF:-1,----|CANADA|----
-#EXTINF:-1,CA|ABC HD
-http://195.154.154.185:5890/live/atoz/atoz/3320.ts
-#EXTINF:-1,CA|ABC SPARK HD
-http://195.154.154.185:5890/live/atoz/atoz/3319.ts
-#EXTINF:-1,CA|Aljazeera english
-http://195.154.154.185:5890/live/atoz/atoz/3273.ts
-#EXTINF:-1,CA|AMC_HD
-http://195.154.154.185:5890/live/atoz/atoz/3268.ts
-#EXTINF:-1,CA|BET
-http://195.154.154.185:5890/live/atoz/atoz/3318.ts
-#EXTINF:-1,CA|BRAVO HD
-http://195.154.154.185:5890/live/atoz/atoz/3317.ts
-#EXTINF:-1,CA|CANAL D
-http://195.154.154.185:5890/live/atoz/atoz/3289.ts
-#EXTINF:-1,CA|CARTOON NETWORK HD
-http://195.154.154.185:5890/live/atoz/atoz/3316.ts
-#EXTINF:-1,CA|CBC HD
-http://195.154.154.185:5890/live/atoz/atoz/3315.ts
-#EXTINF:-1,CA|CBC TORONTO
-http://195.154.154.185:5890/live/atoz/atoz/3284.ts
-#EXTINF:-1,CA|CITY HD
-http://195.154.154.185:5890/live/atoz/atoz/3314.ts
-#EXTINF:-1,CA|COMEDY CHANNEL
-http://195.154.154.185:5890/live/atoz/atoz/3313.ts
-#EXTINF:-1,CA|comedygold
-http://195.154.154.185:5890/live/atoz/atoz/3303.ts
-#EXTINF:-1,CA|COTTAGE LIFE
-http://195.154.154.185:5890/live/atoz/atoz/3274.ts
-#EXTINF:-1,CA|CP24 HD
-http://195.154.154.185:5890/live/atoz/atoz/3312.ts
-#EXTINF:-1,CA|CTV HD
-http://195.154.154.185:5890/live/atoz/atoz/3311.ts
-#EXTINF:-1,CA|DEJAVIEW
-http://195.154.154.185:5890/live/atoz/atoz/3293.ts
-#EXTINF:-1,CA|DISCOVERY SCIENCE HD
-http://195.154.154.185:5890/live/atoz/atoz/3309.ts
-#EXTINF:-1,CA|DISNEY Junior HD
-http://195.154.154.185:5890/live/atoz/atoz/3307.ts
-#EXTINF:-1,CA|DISNEY_XD
-http://195.154.154.185:5890/live/atoz/atoz/3290.ts
-#EXTINF:-1,CA|E HD
-http://195.154.154.185:5890/live/atoz/atoz/3321.ts
-#EXTINF:-1,CA|EVASION
-http://195.154.154.185:5890/live/atoz/atoz/3294.ts
-#EXTINF:-1,CA|FOX HD
-http://195.154.154.185:5890/live/atoz/atoz/3302.ts
-#EXTINF:-1,CA|FX HD
-http://195.154.154.185:5890/live/atoz/atoz/3301.ts
-#EXTINF:-1,CA|FYI
-http://195.154.154.185:5890/live/atoz/atoz/3300.ts
-#EXTINF:-1,CA|G4 CANADA
-http://195.154.154.185:5890/live/atoz/atoz/3267.ts
-#EXTINF:-1,CA|GLOBAL HD
-http://195.154.154.185:5890/live/atoz/atoz/3299.ts
-#EXTINF:-1,CA|GLOBO
-http://195.154.154.185:5890/live/atoz/atoz/3298.ts
-#EXTINF:-1,CA|Golf Channel
-http://195.154.154.185:5890/live/atoz/atoz/3272.ts
-#EXTINF:-1,CA|GSN
-http://195.154.154.185:5890/live/atoz/atoz/3297.ts
-#EXTINF:-1,CA|ICI ARTV
-http://195.154.154.185:5890/live/atoz/atoz/3304.ts
-#EXTINF:-1,CA|ICI RDI
-http://195.154.154.185:5890/live/atoz/atoz/3306.ts
-#EXTINF:-1,CA|LCN
-http://195.154.154.185:5890/live/atoz/atoz/3310.ts
-#EXTINF:-1,CA|MOVIE TIME HD
-http://195.154.154.185:5890/live/atoz/atoz/3296.ts
-#EXTINF:-1,CA|MTV CANADA
-http://195.154.154.185:5890/live/atoz/atoz/3308.ts
-#EXTINF:-1,CA|MUCH MUSIC
-http://195.154.154.185:5890/live/atoz/atoz/3295.ts
-#EXTINF:-1,CA|NBC HD
-http://195.154.154.185:5890/live/atoz/atoz/3291.ts
-#EXTINF:-1,CA|nick
-http://195.154.154.185:5890/live/atoz/atoz/3292.ts
-#EXTINF:-1,CA|OWN HD
-http://195.154.154.185:5890/live/atoz/atoz/3288.ts
-#EXTINF:-1,CA|PEACHTREE TV
-http://195.154.154.185:5890/live/atoz/atoz/3287.ts
-#EXTINF:-1,CA|SLICE HD
-http://195.154.154.185:5890/live/atoz/atoz/3285.ts
-#EXTINF:-1,CA|SPIKE
-http://195.154.154.185:5890/live/atoz/atoz/3283.ts
-#EXTINF:-1,CA|SPORTSNET 360 HD
-http://195.154.154.185:5890/live/atoz/atoz/3282.ts
-#EXTINF:-1,CA|SPORTSNET ONTARIO
-http://195.154.154.185:5890/live/atoz/atoz/3280.ts
-#EXTINF:-1,CA|SPORTSNET WORLD
-http://195.154.154.185:5890/live/atoz/atoz/3281.ts
-#EXTINF:-1,CA|tele-quebec
-http://195.154.154.185:5890/live/atoz/atoz/3305.ts
-#EXTINF:-1,CA|TELETOON HD
-http://195.154.154.185:5890/live/atoz/atoz/3279.ts
-#EXTINF:-1,CA|THE SHOPPING CHANNEL HD
-http://195.154.154.185:5890/live/atoz/atoz/3278.ts
-#EXTINF:-1,CA|TMN
-http://195.154.154.185:5890/live/atoz/atoz/3277.ts
-#EXTINF:-1,CA|TRAVEL CHANNEL
-http://195.154.154.185:5890/live/atoz/atoz/3276.ts
-#EXTINF:-1,CA|TREE HOUSE HD
-http://195.154.154.185:5890/live/atoz/atoz/3275.ts
-#EXTINF:-1,CA|TV5
-http://195.154.154.185:5890/live/atoz/atoz/3269.ts
-#EXTINF:-1,CA|TVA
-http://195.154.154.185:5890/live/atoz/atoz/3271.ts
-#EXTINF:-1,CA|vrak tv
-http://195.154.154.185:5890/live/atoz/atoz/3286.ts
-#EXTINF:-1,CA|W NETWORK HD
-http://195.154.154.185:5890/live/atoz/atoz/3270.ts
-#EXTINF:-1,CA|YTV HD
-http://195.154.154.185:5890/live/atoz/atoz/3266.ts
+#EXTINF:-1,CA : abc hd WWW.IPTVSOURCE.COM
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2397.ts
+#EXTINF:-1,CA : abc spark
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2398.ts
+#EXTINF:-1,CA : bet: black entertainment television
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2399.ts
+#EXTINF:-1,CA : bnn
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2400.ts
+#EXTINF:-1,CA : bravo hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2401.ts
+#EXTINF:-1,CA : cartoon network
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2402.ts
+#EXTINF:-1,CA : cbc toronto
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2403.ts
+#EXTINF:-1,CA : chch
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2404.ts
+#EXTINF:-1,CA : city vancouver
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2405.ts
+#EXTINF:-1,CA : comedy gold
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2406.ts
+#EXTINF:-1,CA : cottage life
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2407.ts
+#EXTINF:-1,CA : cp24
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2409.ts
+#EXTINF:-1,CA : ctv toronto
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2410.ts
+#EXTINF:-1,CA : deja view
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2411.ts
+#EXTINF:-1,CA : e!
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2412.ts
+#EXTINF:-1,CA : evasion
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2413.ts
+#EXTINF:-1,CA : fox 25 hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2414.ts
+#EXTINF:-1,CA : fox news
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2415.ts
+#EXTINF:-1,CA : fxx hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2416.ts
+#EXTINF:-1,CA : fyi
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2417.ts
+#EXTINF:-1,CA : g4
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2418.ts
+#EXTINF:-1,CA : global tv calgary
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2419.ts
+#EXTINF:-1,CA : global tv edmonton
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2420.ts
+#EXTINF:-1,CA : golf channel
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2421.ts
+#EXTINF:-1,CA : gsn
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2422.ts
+#EXTINF:-1,CA : history hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2423.ts
+#EXTINF:-1,CA : ici artv
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2424.ts
+#EXTINF:-1,CA : ici rdi
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2425.ts
+#EXTINF:-1,CA : lcn hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2426.ts
+#EXTINF:-1,CA : movie time
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2427.ts
+#EXTINF:-1,CA : mtv canada
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2428.ts
+#EXTINF:-1,CA : much music
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2429.ts
+#EXTINF:-1,CA : musique
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2430.ts
+#EXTINF:-1,CA : nick
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2431.ts
+#EXTINF:-1,CA : oln
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2432.ts
+#EXTINF:-1,CA : omni 1
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2433.ts
+#EXTINF:-1,CA : omni 2
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2434.ts
+#EXTINF:-1,CA : own (oprah winfrew network)
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2435.ts
+#EXTINF:-1,CA : peachtree tv
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2436.ts
+#EXTINF:-1,CA : rds 2
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2437.ts
+#EXTINF:-1,CA : rds2 hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2438.ts
+#EXTINF:-1,CA : series  hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2439.ts
+#EXTINF:-1,CA : shopping channel
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2440.ts
+#EXTINF:-1,CA : silver screen classics
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2441.ts
+#EXTINF:-1,CA : slice
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2442.ts
+#EXTINF:-1,CA : spike
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2443.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2444.ts
+#EXTINF:-1,CA : sportsnet 360 hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2445.ts
+#EXTINF:-1,CA : Sportsnet One HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2446.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2447.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2448.ts
+#EXTINF:-1,CA : super ecran hd
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2449.ts
+#EXTINF:-1,CA : teletoon
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2450.ts
+#EXTINF:-1,CA : tmn
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2451.ts
+#EXTINF:-1,CA : travel channel
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2452.ts
+#EXTINF:-1,CA : tree house
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2453.ts
+#EXTINF:-1,CA : vrak tv
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2454.ts
+#EXTINF:-1,CA : w network
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2455.ts
+#EXTINF:-1,CA : world fishing
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2456.ts
+#EXTINF:-1,CA : ytv
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2457.ts
+#EXTINF:-1,CA Sportnet Pacific HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/5651.ts
+#EXTINF:-1,CA Sportsnet World HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/5652.ts
+#EXTINF:-1,CA: ABC Spark
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2481.ts
+#EXTINF:-1,CA: CHCH
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2480.ts
+#EXTINF:-1,CA: CityTV HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2479.ts
+#EXTINF:-1,CA: CityTV Vancouver
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2478.ts
+#EXTINF:-1,CA: CityTV Winnipeg
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2477.ts
+#EXTINF:-1,CA: CP24 HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2476.ts
+#EXTINF:-1,CA: CTV HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2475.ts
+#EXTINF:-1,CA: CTV News HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2474.ts
+#EXTINF:-1,CA: CTV Vancouver
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2473.ts
+#EXTINF:-1,CA: CTV Winnipeg
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2472.ts
+#EXTINF:-1,CA: CW HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2471.ts
+#EXTINF:-1,CA: Family CHRGD HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2470.ts
+#EXTINF:-1,CA: Family HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2469.ts
+#EXTINF:-1,CA: Family Junior HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2468.ts
+#EXTINF:-1,CA: FOX W HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2467.ts
+#EXTINF:-1,CA: Global HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2466.ts
+#EXTINF:-1,CA: OMNI 1 HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2465.ts
+#EXTINF:-1,CA: OMNI 2 HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2464.ts
+#EXTINF:-1,CA: Super Ecran 1
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2485.ts
+#EXTINF:-1,CA: Super Ecran 2
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2484.ts
+#EXTINF:-1,CA: Super Ecran 3
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2483.ts
+#EXTINF:-1,CA: Super Ecran 4
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2482.ts
+#EXTINF:-1,CA: Teletoon HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2463.ts
+#EXTINF:-1,CA: Treehouse HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2462.ts
+#EXTINF:-1,CA: Tru TV HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2461.ts
+#EXTINF:-1,CA: TVO HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2460.ts
+#EXTINF:-1,CA: Univision HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2459.ts
+#EXTINF:-1,CA: Velocity HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2458.ts
+#EXTINF:-1,CA : Sportnet Pacific HD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/6849.ts
+#EXTINF:-1,CA: PBS FHD
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/6848.ts
+#EXTINF:-1,CA : country music television
+http://iptvtop.ddns.net:25461/live/key16ad16@gmail.com/2w3j81/2408.ts
